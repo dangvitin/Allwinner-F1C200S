@@ -1,0 +1,1 @@
+# Allwinner-F1C200S
