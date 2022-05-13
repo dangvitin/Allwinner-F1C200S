@@ -10,6 +10,10 @@
    -  I2C and UART IO port
    -  MicroSD card
 
+## 0. **CHANGE LOG**
+
+- V1.1: Fix USB type C connetor.
+
 ## 1. **HARDWARE**
 
 - The F1C200S is SoC with ARM 9 CPU and 64MB SIP memory. As it only has one SDIO peripheral and already spend for SD card, I use ESP8266 as Wifi adapter through SPI bus, details can be found here https://www.cnblogs.com/twzy/p/15160808.html
